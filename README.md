@@ -5,5 +5,5 @@
 
 ### Works based on IMDB
 
-<img width="" height="" src="photo1.png">
+<img width="" height="" src="assets/photo1.png">
 idk вот зис фото should хев shown. добавил ради картинки и привлекательности 
